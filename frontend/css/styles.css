@@ -1,0 +1,50 @@
+h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+.option {
+  margin-right: 30px;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.dev-card {
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  padding: 4px;
+  margin: 4px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.data {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.language {
+  width: 25px;
+  height: 25px;
+}
+
+.flexrow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
