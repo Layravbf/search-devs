@@ -11,4 +11,7 @@
 - Sair da zona de conforto e pensar fora da caixa.
 
 ### Implementação:
-- [Search-devs](https://layravbf.github.io/search-devs/.)
+- Para que o backend funcione, execute os seguintes comandos (sem aspas):
+
+1) "npm install", para instalar as dependências
+2) "npm start", para "subir" o backend
